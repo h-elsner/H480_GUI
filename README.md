@@ -2,7 +2,7 @@
 **Alternative GUI for Yuneec Typhoon H**
 
 This tool provides a replacement for the Typhoon H GUI. It offers a deep insight how the flight controller interacts with its sensors. It is a good tool for a first diagnosis in case of problems.
-
+![Screenshot](doc/System.png)
 Download this tool from download area in my homepage: http://h-elsner.mooo.com/html/downl.htm
 Binaries for Windows (.zip) and LINUX (.tar.gz) are available. 
 
